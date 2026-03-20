@@ -2,7 +2,7 @@
 
 A fun and interactive Rock Paper Scissors web application where users can play against the computer. The game features real-time results, score tracking, and a clean, responsive user interface.
 
-LINK-> file:///C:/Users/Chavi%20Rathi/OneDrive/Desktop/javascript/projects/game/rock-paper.html
+LINK-> file:///C:/Users/Chavi%20Rathi/OneDrive/Desktop/javascript/projects/game/rock-paper.html/
 
 🚀 Features
 
